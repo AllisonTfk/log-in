@@ -1,4 +1,4 @@
 <?php
-echo "welcome back";
+echo "i am back from school";
 
 ?>
